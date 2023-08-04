@@ -9,3 +9,5 @@ This app uses the TheMealDB api to retrieve the recipes
 
 - npm install
 - npm run dev - Runs the app in development mode
+
+Deployed - https://delicious-recipe-search.netlify.app/
