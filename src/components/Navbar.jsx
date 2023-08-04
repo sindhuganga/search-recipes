@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import Wrapper from "../assets/wrappers/navbar";
+import Wrapper from "../assets/wrappers/Navbar";
 import { GiKnifeFork } from "react-icons/gi";
 
 const Navbar = () => {
